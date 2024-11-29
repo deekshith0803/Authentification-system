@@ -15,5 +15,5 @@ A simple user authentication system built with **Node.js**, **Express.js**, and 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/deekshith0803/Authentification-system.git
    cd <repository-directory>
